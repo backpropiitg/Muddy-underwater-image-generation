@@ -89,13 +89,13 @@ For Implementation checkout the Github Repository: https://github.com/backpropii
 ##
 Special thanks to the following repositories:
 
-https://github.com/CompVis/stable-diffusion/
-https://github.com/divamgupta/stable-diffusion-tensorflow
-https://github.com/kjsman/stable-diffusion-pytorch
-https://github.com/huggingface/diffusers/
-https://github.com/hkproj/pytorch-stable-diffusion/
+- https://github.com/CompVis/stable-diffusion/
+- https://github.com/divamgupta/stable-diffusion-tensorflow
+- https://github.com/kjsman/stable-diffusion-pytorch
+- https://github.com/huggingface/diffusers/
+- https://github.com/hkproj/pytorch-stable-diffusion/
 
 Youtube link:
 https://www.youtube.com/watch?v=ZBKpAp_6TGI&t=2258s
 
-And others from the coding community. 
+And others from the hugging face community. 
